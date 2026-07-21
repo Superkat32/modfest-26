@@ -1,17 +1,113 @@
 {
+	"modfest.music.as_is_and_as_was_before": "soileH - as is and as was before (Jukebox)",
+	"modfest.music.stereo.as_is_and_as_was_before": "soileH - as is and as was before",
+	"lore.modfest.music.as_is_and_as_was_before": "Hint #25 - Life can still develop in the darkest, most humid places. Sinking into shower pipes, as we say. ",
+
+	"modfest.music.athletics": "Aethyus - Athletics (Jukebox)",
+	"modfest.music.stereo.athletics": "Aethyus - Athletics",
+	"lore.modfest.music.athletics": "Hint #11 - Thinking that open spaces can't hide anything from you is wrong. Even the very first door to the very first building on the very first floor on your very first day can harbor a secret.",
+
 	"modfest.music.auburn_decoy": "Aethyus - Auburn Decoy (Jukebox)",
 	"modfest.music.stereo.auburn_decoy": "Aethyus - Auburn Decoy",
-	"lore.modfest.music.auburn_decoy": "Hint #XX - ???",
+	"lore.modfest.music.auburn_decoy": "Hint #24 - Infinite Finality is in the finite reality. Close your eyes and drift away.. let the play playout",
 
-	"modfest.music.lily_of_the_valley": "lynndova - Lily of the Valley (Jukebox)",
-	"modfest.music.stereo.lily_of_the_valley": "lynndova - Lily of the Valley",
-	"lore.modfest.music.lily_of_the_valley": "Hint #XX - ???",
+	"modfest.music.basil": "lynndova - Basil (Jukebox)",
+	"modfest.music.stereo.basil": "lynndova - Basil",
+	"lore.modfest.music.basil": "Hint #02 - By a seesaw west of the Science Building...",
+
+	"modfest.music.false_indigo": "lynndova - False Indigo (Jukebox)",
+	"modfest.music.stereo.false_indigo": "lynndova - False Indigo",
+	"lore.modfest.music.false_indigo": "Hint #03 - In the stands of the baseball field.",
+
+	"modfest.music.finish_or_flounder": "Superkat32 - Finish or Flounder (Jukebox)",
+	"modfest.music.stereo.finish_or_flounder": "Superkat32 - Finish or Flounder",
+	"lore.modfest.music.finish_or_flounder": "Hint #21 - Myths are always the same. History repeats. Where tales are spun, a song lies under a stone lies under a flower.",
+
+	"modfest.music.heliograce": "Aethyus - Heliograce (Jukebox)",
+	"modfest.music.stereo.heliograce": "Aethyus - Heliograce",
+	"lore.modfest.music.heliograce": "Hint #27 - A balloon is causing trouble just by the southwest corner of the baseball field. Be careful of its mini-army!",
+
+	"modfest.music.horizontal_hourglass": "soileH - Horizontal Hourglass (Jukebox)",
+	"modfest.music.stereo.horizontal_hourglass": "soileH - Horizontal Hourglass",
+	"lore.modfest.music.horizontal_hourglass": "Hint #23 - hot soup is yumy tasty!!!! green an all",
+
+	"modfest.music.i_wannanana": "Nulb - I Wannanana (Jukebox)",
+	"modfest.music.stereo.i_wannanana": "Nulb - I Wannanana",
+	"lore.modfest.music.i_wannanana": "Hint #07 - An arrow shot through space and time, Quickstep back and stand in-line",
 
 	"modfest.music.ice_cold_spades": "lynndova - Ice Cold Spades (Jukebox)",
 	"modfest.music.stereo.ice_cold_spades": "lynndova - Ice Cold Spades",
-	"lore.modfest.music.ice_cold_spades": "Hint #XX - ???",
+	"lore.modfest.music.ice_cold_spades": "Hint #04 - In the stands of the race track.",
+
+	"modfest.music.ink_shot": "Superkat32 - Ink Shot (Jukebox)",
+	"modfest.music.stereo.ink_shot": "Superkat32 - Ink Shot",
+	"lore.modfest.music.ink_shot": "Hint #01 - Overwatching the mountainsides at a picnic, along the nature trail, west of the beach",
+
+	"modfest.music.lily_of_the_valley": "lynndova - Lily of the Valley (Jukebox)",
+	"modfest.music.stereo.lily_of_the_valley": "lynndova - Lily of the Valley",
+	"lore.modfest.music.lily_of_the_valley": "Hint #16 - These ladders sure are nice! I just keep climbing! ough... something fell out of my pocket, and now it's lost among the books",
+
+	"modfest.music.momentum": "Aethyus - Momentum (Jukebox)",
+	"modfest.music.stereo.momentum": "Aethyus - Momentum",
+	"lore.modfest.music.momentum": "Hint #06 - School rumors say there's a pefect bench sitting nearby the cherry-blossom hill trail. Some say if you catch the sunrise it's a sign of good luck!",
+
+	"modfest.music.pasuka": "Superkat32 - Pasuka (Jukebox)",
+	"modfest.music.stereo.pasuka": "Superkat32 - Pasuka",
+	"lore.modfest.music.pasuka": "Hint #15 - A sweet girl needs to bring everything she needs to school! A book, A pen and a disc... Maybe she's ready to put it behind her too...?",
+
+	"modfest.music.pollen_bazooka": "Superkat32 - Pollen Bazooka (Jukebox)",
+	"modfest.music.stereo.pollen_bazooka": "Superkat32 - Pollen Bazooka",
+	"lore.modfest.music.pollen_bazooka": "Hint #09 - Sandy beaches are a shrimp's best friend! a royal song deserves its castle",
+
+	"modfest.music.red_hot_poker": "lynndova - Red Hot Poker (Jukebox)",
+	"modfest.music.stereo.red_hot_poker": "lynndova - Red Hot Poker",
+	"lore.modfest.music.red_hot_poker": "Hint #05 - At home. Check the architect's house and have a cup of matcha with some music!",
+
+	"modfest.music.reset": "Nulb - reset (Jukebox)",
+	"modfest.music.stereo.reset": "Nulb - reset",
+	"lore.modfest.music.reset": "Hint #17 - Disgusting purple man spotted in artist booth! Is he even a student here?",
+
+	"modfest.music.rest": "Aethyus - Rest... (Jukebox)",
+	"modfest.music.stereo.rest": "Aethyus - Rest...",
+	"lore.modfest.music.rest": "Hint #26 - Climb to the top of the world. The Precipice of Progress. On the terraces of sunset and sunrise, you'll find the key.",
+
+	"modfest.music.shrimp_music": "Nulb - Shrimp Fried Music (Jukebox)",
+	"modfest.music.stereo.shrimp_music": "Nulb - Shrimp Fried Music",
+	"lore.modfest.music.shrimp_music": "Hint #10 - There's a whole new world on the other side of the... gym bathroom's mirror?",
+
+	"modfest.music.shrine": "Aethyus - Shrine (Jukebox)",
+	"modfest.music.stereo.shrine": "Aethyus - Shrine",
+	"lore.modfest.music.shrine": "Hint #20 - A balloon tucked away in the corner just left of the Squid Research Lab lab exit stole this somehow!",
 
 	"modfest.music.smoking_club": "Nulb - Anti-Smoking Smoking Club (Jukebox)",
 	"modfest.music.stereo.smoking_club": "Nulb - Anti-Smoking Smoking Club",
-	"lore.modfest.music.smoking_club": "Hint #XX - ???"
+	"lore.modfest.music.smoking_club": "Hint #19 - On a nature trail / In the second-floor ceiling / Of a shrine, alone",
+
+	"modfest.music.tales_of_yore": "Aethyus - Tales of Yore (Jukebox)",
+	"modfest.music.stereo.tales_of_yore": "Aethyus - Tales of Yore",
+	"lore.modfest.music.tales_of_yore": "Hint #22 - A ghost stands guard in nothingness, find the disc in the in-between",
+
+	"modfest.music.trotting_fox": "Jaevy - Trotting Fox (Jukebox)",
+	"modfest.music.stereo.trotting_fox": "Jaevy - Trotting Fox",
+	"lore.modfest.music.trotting_fox": "Hint #14 - There's a balloon at the pond dock beside the nature trail enterance, it's quite the hike!",
+
+	"modfest.music.twin_suns": "Aethyus  - Twin Suns (Jukebox)",
+	"modfest.music.stereo.twin_suns": "Aethyus  - Twin Suns",
+	"lore.modfest.music.twin_suns": "Hint #12 - Wondered why there are holes in donuts? To put discs in the trees inside them, of course.",
+
+	"modfest.music.uplink": "Nulb - Uplink (Jukebox)",
+	"modfest.music.stereo.uplink": "Nulb - Uplink",
+	"lore.modfest.music.uplink": "Hint #08 - There's a balloon hiding under a cherry tree next to the south exit of the Science Building. Is there something inside?",
+
+	"modfest.music.vip": "Nulb - V(ery) I(mportant) P(urple) (Jukebox)",
+	"modfest.music.stereo.vip": "Nulb - V(ery) I(mportant) P(urple)",
+	"lore.modfest.music.vip": "Hint #18 - An unnecessary smoke break is mandated behind the trash... HEY?!?! WHY DID THAT PURPLE GUY THROW THAT DISC UP THERE?!?!",
+
+	"modfest.music.wisps": "Aethyus - Wisps (Jukebox)",
+	"modfest.music.stereo.wisps": "Aethyus - Wisps",
+	"lore.modfest.music.wisps": "Hint #13 - a blue fox, trotting / its home in an alleyway / its art, on display",
+
+	"modfest.music.assc_midnight": "Nulb - Anti-Smoking Smoking Club (Midnight Mix) (Jukebox)",
+	"modfest.music.stereo.assc_midnight": "Nulb - Anti-Smoking Smoking Club (Midnight Mix)"
+
 }

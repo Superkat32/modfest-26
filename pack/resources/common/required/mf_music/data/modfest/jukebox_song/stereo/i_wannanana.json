@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "modfest.music.stereo.i_wannanana"
+	},
+	"length_in_seconds": 94.0,
+	"sound_event": {
+		"sound_id": "modfest:music.stereo.i_wannanana"
+	}
+}

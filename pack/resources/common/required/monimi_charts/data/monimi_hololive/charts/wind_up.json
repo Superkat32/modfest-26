@@ -6,7 +6,8 @@
     "cover": "monimi_hololive:textures/cover/wind_up.png",
     "length": 186,
     "bpm": 148,
-    "streamUnsafe": true
+    "streamUnsafe": true,
+    "volume": 0.7
   },
   "charter": "Sammy",
   "difficulty": "normal",

@@ -2,7 +2,7 @@
 	// Default Value: false
 	// If all invisible blocks are visible to you, not accounting the item you are holding.
 	// The player must be in creative to see barriers.
-	"everything_visible": true,
+	"everything_visible": false,
 	// Default Value: false
 	// Whether invisible blocks should be invisible in survival.
 	// WARNING: This will cause flickering when changing game modes!

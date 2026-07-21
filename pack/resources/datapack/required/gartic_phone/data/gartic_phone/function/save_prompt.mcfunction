@@ -1,0 +1,2 @@
+$data modify storage gartic_phone:prompt $(round)-$(index) set from entity @p[scores={gartic_phone_offset=$(index)}] Inventory[{id:"minecraft:writable_book"}].components."minecraft:writable_book_content".pages[0].raw
+$data modify storage gartic_phone:prompt $(round)-$(index) set from entity @p[scores={gartic_phone_offset=$(index)}] Inventory[{id:"minecraft:written_book"}].components."minecraft:written_book_content".pages[0].raw

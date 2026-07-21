@@ -1,1 +1,18 @@
-{"entity":"minecraft:creeper","condition":{"mf:first":true},"dialogue":"modfest_cc:b/dialogue_0","options":{"Continue":"modfest_cc:visit_again_2"},"emotion":null,"change_condition":{},"ends_dialogue":false,"commands":[],"requires":null,"sprites":[]}
+{
+    "entity": "minecraft:creeper",
+    "condition": {
+        "mf:first": true
+    },
+    "dialogue": "modfest_cc:b/dialogue_0",
+    "options": {
+        "Continue": "modfest_cc:visit_again_2"
+    },
+    "emotion": null,
+    "change_condition": {},
+    "ends_dialogue": false,
+    "commands": [
+        "shard award @s creeper_crush:modfest_bonus_1"
+    ],
+    "requires": null,
+    "sprites": []
+}

@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "modfest.music.stereo.vip_loop"
+	},
+	"length_in_seconds": 63.0,
+	"sound_event": {
+		"sound_id": "modfest:music.stereo.vip_loop"
+	}
+}

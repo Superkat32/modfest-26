@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "modfest.music.as_is_and_as_was_before"
+	},
+	"length_in_seconds": 135.0,
+	"sound_event": {
+		"sound_id": "modfest:music.as_is_and_as_was_before"
+	}
+}

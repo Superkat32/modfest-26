@@ -1,1 +1,16 @@
-{"entity":"minecraft:creeper","condition":{"never":true},"dialogue":"modfest_cc:dialogue_5","options":{"Continue":"modfest_cc:first_visit_5"},"emotion":null,"change_condition":{},"ends_dialogue":false,"commands":[],"requires":null,"sprites":[]}
+{
+    "entity": "minecraft:creeper",
+    "condition": {
+        "never": true
+    },
+    "dialogue": "modfest_cc:dialogue_5",
+    "options": {
+        "Continue": "modfest_cc:first_visit_5"
+    },
+    "emotion": null,
+    "change_condition": {},
+    "ends_dialogue": false,
+    "commands": [],
+    "requires": null,
+    "sprites": []
+}

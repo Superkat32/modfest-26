@@ -1,20 +1,244 @@
 {
 	"music.area.sash": {
-		"sounds": [
-		]
-	},
-	"music.lily_of_the_valley": {
-		"sounds": [
+		"sounds":  [
 			{
-				"name": "modfest:music/lily_of_the_valley",
+				"name": "modfest:music/stereo/athletics",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/false_indigo",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/heliograce",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/ice_cold_spades",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/ink_shot",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/momentum",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/pollen_bazooka",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/shrine",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/trotting_fox",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/twin_suns",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/uplink",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/wisps",
 				"stream": true
 			}
 		]
 	},
-	"music.stereo.lily_of_the_valley": {
+	"music.basil": {
 		"sounds": [
 			{
-				"name": "modfest:music/stereo/lily_of_the_valley",
+				"name": "modfest:music/basil",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.basil": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/basil",
+				"stream": true
+			}
+		]
+	},
+	"music.false_indigo": {
+		"sounds": [
+			{
+				"name": "modfest:music/false_indigo",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.false_indigo": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/false_indigo",
+				"stream": true
+			}
+		]
+	},
+	"music.red_hot_poker": {
+		"sounds": [
+			{
+				"name": "modfest:music/red_hot_poker",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.red_hot_poker": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/red_hot_poker",
+				"stream": true
+			}
+		]
+	},
+	"music.as_is_and_as_was_before": {
+		"sounds": [
+			{
+				"name": "modfest:music/as_is_and_as_was_before",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.as_is_and_as_was_before": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/as_is_and_as_was_before",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.as_is_and_as_was_before_loop": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/as_is_and_as_was_before_loop",
+				"stream": true
+			}
+		]
+	},
+	"music.horizontal_hourglass": {
+		"sounds": [
+			{
+				"name": "modfest:music/horizontal_hourglass",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.horizontal_hourglass": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/horizontal_hourglass",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.horizontal_hourglass_loop": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/horizontal_hourglass_loop",
+				"stream": true
+			}
+		]
+	},
+	"music.athletics": {
+		"sounds": [
+			{
+				"name": "modfest:music/athletics",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.athletics": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/athletics",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.athletics_loop": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/athletics_loop",
+				"stream": true
+			}
+		]
+	},
+	"music.auburn_decoy": {
+		"sounds": [
+			{
+				"name": "modfest:music/auburn_decoy",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.auburn_decoy": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/auburn_decoy",
+				"stream": true
+			}
+		]
+	},
+	"music.finish_or_flounder": {
+		"sounds": [
+			{
+				"name": "modfest:music/finish_or_flounder",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.finish_or_flounder": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/finish_or_flounder",
+				"stream": true
+			}
+		]
+	},
+	"music.heliograce": {
+		"sounds": [
+			{
+				"name": "modfest:music/heliograce",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.heliograce": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/heliograce",
+				"stream": true
+			}
+		]
+	},
+	"music.i_wannanana": {
+		"sounds": [
+			{
+				"name": "modfest:music/i_wannanana",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.i_wannanana": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/i_wannanana",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.i_wannanana_loop": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/i_wannanana_loop",
 				"stream": true
 			}
 		]
@@ -35,18 +259,154 @@
 			}
 		]
 	},
-	"music.auburn_decoy": {
+	"music.ink_shot": {
 		"sounds": [
 			{
-				"name": "modfest:music/auburn_decoy",
+				"name": "modfest:music/ink_shot",
 				"stream": true
 			}
 		]
 	},
-	"music.stereo.auburn_decoy": {
+	"music.stereo.ink_shot": {
 		"sounds": [
 			{
-				"name": "modfest:music/stereo/auburn_decoy",
+				"name": "modfest:music/stereo/ink_shot",
+				"stream": true
+			}
+		]
+	},
+	"music.lily_of_the_valley": {
+		"sounds": [
+			{
+				"name": "modfest:music/lily_of_the_valley",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.lily_of_the_valley": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/lily_of_the_valley",
+				"stream": true
+			}
+		]
+	},
+	"music.momentum": {
+		"sounds": [
+			{
+				"name": "modfest:music/momentum",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.momentum": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/momentum",
+				"stream": true
+			}
+		]
+	},
+	"music.pasuka": {
+		"sounds": [
+			{
+				"name": "modfest:music/pasuka",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.pasuka": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/pasuka",
+				"stream": true
+			}
+		]
+	},
+	"music.pollen_bazooka": {
+		"sounds": [
+			{
+				"name": "modfest:music/pollen_bazooka",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.pollen_bazooka": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/pollen_bazooka",
+				"stream": true
+			}
+		]
+	},
+	"music.reset": {
+		"sounds": [
+			{
+				"name": "modfest:music/reset",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.reset": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/reset",
+				"stream": true
+			}
+		]
+	},
+	"music.rest": {
+		"sounds": [
+			{
+				"name": "modfest:music/rest",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.rest": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/rest",
+				"stream": true
+			}
+		]
+	},
+	"music.shrimp_music": {
+		"sounds": [
+			{
+				"name": "modfest:music/shrimp_music",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.shrimp_music": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/shrimp_music",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.shrimp_music_loop": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/shrimp_music_loop",
+				"stream": true
+			}
+		]
+	},
+	"music.shrine": {
+		"sounds": [
+			{
+				"name": "modfest:music/shrine",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.shrine": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/shrine",
 				"stream": true
 			}
 		]
@@ -71,6 +431,126 @@
 		"sounds": [
 			{
 				"name": "modfest:music/stereo/smoking_club_loop",
+				"stream": true
+			}
+		]
+	},
+	"music.assc_midnight": {
+		"sounds": [
+			{
+				"name": "modfest:music/assc_midnight",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.assc_midnight": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/assc_midnight",
+				"stream": true
+			}
+		]
+	},
+	"music.tales_of_yore": {
+		"sounds": [
+			{
+				"name": "modfest:music/tales_of_yore",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.tales_of_yore": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/tales_of_yore",
+				"stream": true
+			}
+		]
+	},
+	"music.trotting_fox": {
+		"sounds": [
+			{
+				"name": "modfest:music/trotting_fox",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.trotting_fox": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/trotting_fox",
+				"stream": true
+			}
+		]
+	},
+	"music.twin_suns": {
+		"sounds": [
+			{
+				"name": "modfest:music/twin_suns",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.twin_suns": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/twin_suns",
+				"stream": true
+			}
+		]
+	},
+	"music.uplink": {
+		"sounds": [
+			{
+				"name": "modfest:music/uplink",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.uplink": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/uplink",
+				"stream": true
+			}
+		]
+	},
+	"music.vip": {
+		"sounds": [
+			{
+				"name": "modfest:music/vip",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.vip": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/vip",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.vip_loop": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/vip_loop",
+				"stream": true
+			}
+		]
+	},
+	"music.wisps": {
+		"sounds": [
+			{
+				"name": "modfest:music/wisps",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.wisps": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/wisps",
 				"stream": true
 			}
 		]

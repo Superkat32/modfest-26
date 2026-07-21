@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "modfest.music.stereo.tales_of_yore"
+	},
+	"length_in_seconds": 173.0,
+	"sound_event": {
+		"sound_id": "modfest:music.stereo.tales_of_yore"
+	}
+}

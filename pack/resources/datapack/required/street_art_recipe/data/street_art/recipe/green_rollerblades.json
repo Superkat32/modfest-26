@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"street_art:red_rollerblades",
+		"slime_time:slime_boots"
+	],
+	"result": {
+		"count": 1,
+		"id": "street_art:green_rollerblades"
+	}
+}

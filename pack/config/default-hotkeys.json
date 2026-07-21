@@ -1,7 +1,107 @@
 [
   {
+    "comment": "Faint",
+    "translation": "Faint",
+    "key": "key.keyboard.unknown"
+  },
+  {
     "comment": "area_lib.key.toggle_areas",
-    "translation": "Toggle area rendering",
+    "translation": "area_lib.key.toggle_areas",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.builder_tool_slot",
+    "translation": "axiom.keybind.builder_tool_slot",
+    "key": "key.keyboard.0"
+  },
+  {
+    "comment": "axiom.keybind.context",
+    "translation": "axiom.keybind.context",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "axiom.keybind.jump_to_block",
+    "translation": "axiom.keybind.jump_to_block",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.nudge_backwards",
+    "translation": "axiom.keybind.nudge_backwards",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.nudge_forwards",
+    "translation": "axiom.keybind.nudge_forwards",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.nudge_with_scroll",
+    "translation": "axiom.keybind.nudge_with_scroll",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.orbit_camera",
+    "translation": "axiom.keybind.orbit_camera",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.toggle_angel_placement_cap",
+    "translation": "axiom.keybind.toggle_angel_placement_cap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.toggle_bulldozer_cap",
+    "translation": "axiom.keybind.toggle_bulldozer_cap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.toggle_editor_ui",
+    "translation": "axiom.keybind.toggle_editor_ui",
+    "key": "key.keyboard.right.shift"
+  },
+  {
+    "comment": "axiom.keybind.toggle_fast_place_cap",
+    "translation": "axiom.keybind.toggle_fast_place_cap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.toggle_flight_speed_adjustment",
+    "translation": "axiom.keybind.toggle_flight_speed_adjustment",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.toggle_force_place_cap",
+    "translation": "axiom.keybind.toggle_force_place_cap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.toggle_infinite_reach_cap",
+    "translation": "axiom.keybind.toggle_infinite_reach_cap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.toggle_invisible_blocks",
+    "translation": "axiom.keybind.toggle_invisible_blocks",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.toggle_no_clip_cap",
+    "translation": "axiom.keybind.toggle_no_clip_cap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.toggle_no_updates_cap",
+    "translation": "axiom.keybind.toggle_no_updates_cap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "axiom.keybind.toggle_replace_mode_cap",
+    "translation": "axiom.keybind.toggle_replace_mode_cap",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "axiom.keybind.toggle_tinker_cap",
+    "translation": "axiom.keybind.toggle_tinker_cap",
     "key": "key.keyboard.unknown"
   },
   {
@@ -21,8 +121,18 @@
   },
   {
     "comment": "key.ballotbox.open",
-    "translation": "Open Voting Screen",
+    "translation": "key.ballotbox.open",
     "key": "key.keyboard.apostrophe"
+  },
+  {
+    "comment": "key.batoru.ability",
+    "translation": "key.batoru.ability",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.batoru.spell_cast",
+    "translation": "key.batoru.spell_cast",
+    "key": "key.keyboard.left.alt"
   },
   {
     "comment": "key.chat",
@@ -35,14 +145,204 @@
     "key": "key.keyboard.slash"
   },
   {
+    "comment": "key.debug.clearChat",
+    "translation": "Clear Chat",
+    "key": "key.keyboard.d"
+  },
+  {
+    "comment": "key.debug.copyLocation",
+    "translation": "Copy Location",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.debug.copyRecreateCommand",
+    "translation": "Copy Data",
+    "key": "key.keyboard.i"
+  },
+  {
+    "comment": "key.debug.crash",
+    "translation": "Debug Crash",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.debug.debugOptions",
+    "translation": "Debug Options",
+    "key": "key.keyboard.f6"
+  },
+  {
+    "comment": "key.debug.dumpDynamicTextures",
+    "translation": "Dump Dynamic Textures",
+    "key": "key.keyboard.s"
+  },
+  {
+    "comment": "key.debug.dumpVersion",
+    "translation": "Dump Version Info",
+    "key": "key.keyboard.v"
+  },
+  {
+    "comment": "key.debug.focusPause",
+    "translation": "Toggle Lost Focus Pause",
+    "key": "key.keyboard.p"
+  },
+  {
+    "comment": "key.debug.profiling",
+    "translation": "Start/Stop Profiling",
+    "key": "key.keyboard.l"
+  },
+  {
+    "comment": "key.debug.reloadChunk",
+    "translation": "Reload Chunks",
+    "key": "key.keyboard.a"
+  },
+  {
+    "comment": "key.debug.reloadResourcePacks",
+    "translation": "Reload Resource Packs",
+    "key": "key.keyboard.t"
+  },
+  {
+    "comment": "key.debug.showAdvancedTooltips",
+    "translation": "Show Advanced Tooltips",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "key.debug.showChunkBorders",
+    "translation": "Show Chunk Boundaries",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.debug.showHitboxes",
+    "translation": "Show Hitboxes",
+    "key": "key.keyboard.b"
+  },
+  {
+    "comment": "key.debug.spectate",
+    "translation": "Cycle Spectator",
+    "key": "key.keyboard.n"
+  },
+  {
+    "comment": "key.debug.switchGameMode",
+    "translation": "Game Mode Switcher",
+    "key": "key.keyboard.f4"
+  },
+  {
     "comment": "key.disable_voice_chat",
-    "translation": "Disable Voice Chat",
-    "key": "key.keyboard.unknown"
+    "translation": "key.disable_voice_chat",
+    "key": "key.keyboard.n"
   },
   {
     "comment": "key.drop",
     "translation": "Drop Selected Item",
     "key": "key.keyboard.q"
+  },
+  {
+    "comment": "key.ensemble.a.octave_modifier",
+    "translation": "key.ensemble.a.octave_modifier",
+    "key": "key.keyboard.right.alt"
+  },
+  {
+    "comment": "key.ensemble.b.do",
+    "translation": "key.ensemble.b.do",
+    "key": "key.keyboard.f"
+  },
+  {
+    "comment": "key.ensemble.c.re",
+    "translation": "key.ensemble.c.re",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.ensemble.d.mi",
+    "translation": "key.ensemble.d.mi",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "key.ensemble.e.fa",
+    "translation": "key.ensemble.e.fa",
+    "key": "key.keyboard.j"
+  },
+  {
+    "comment": "key.ensemble.f.sol",
+    "translation": "key.ensemble.f.sol",
+    "key": "key.keyboard.k"
+  },
+  {
+    "comment": "key.ensemble.g.la",
+    "translation": "key.ensemble.g.la",
+    "key": "key.keyboard.l"
+  },
+  {
+    "comment": "key.ensemble.h.si",
+    "translation": "key.ensemble.h.si",
+    "key": "key.keyboard.semicolon"
+  },
+  {
+    "comment": "key.ensemble.i.do_high",
+    "translation": "key.ensemble.i.do_high",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.ensemble.j.re_high",
+    "translation": "key.ensemble.j.re_high",
+    "key": "key.keyboard.t"
+  },
+  {
+    "comment": "key.ensemble.k.mi_high",
+    "translation": "key.ensemble.k.mi_high",
+    "key": "key.keyboard.y"
+  },
+  {
+    "comment": "key.ensemble.l.fa_high",
+    "translation": "key.ensemble.l.fa_high",
+    "key": "key.keyboard.u"
+  },
+  {
+    "comment": "key.ensemble.m.sol_high",
+    "translation": "key.ensemble.m.sol_high",
+    "key": "key.keyboard.i"
+  },
+  {
+    "comment": "key.ensemble.n.la_high",
+    "translation": "key.ensemble.n.la_high",
+    "key": "key.keyboard.o"
+  },
+  {
+    "comment": "key.ensemble.o.si_high",
+    "translation": "key.ensemble.o.si_high",
+    "key": "key.keyboard.p"
+  },
+  {
+    "comment": "key.ensemble.p.do_higher",
+    "translation": "key.ensemble.p.do_higher",
+    "key": "key.keyboard.left.bracket"
+  },
+  {
+    "comment": "key.fabrictailor.toggle_skin_gui",
+    "translation": "key.fabrictailor.toggle_skin_gui",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.fireblanket.debug.block_tick_times",
+    "translation": "key.fireblanket.debug.block_tick_times",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.fireblanket.debug.entity_tick_times",
+    "translation": "key.fireblanket.debug.entity_tick_times",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.fireblanket.debug.render_region.toggle",
+    "translation": "key.fireblanket.debug.render_region.toggle",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.fireblanket.debug.render_region.visualize",
+    "translation": "key.fireblanket.debug.render_region.visualize",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.fireblanket.debug.tick_times",
+    "translation": "key.fireblanket.debug.tick_times",
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.forward",
@@ -56,8 +356,8 @@
   },
   {
     "comment": "key.hide_icons",
-    "translation": "Hide Voice Chat Icons",
-    "key": "key.keyboard.unknown"
+    "translation": "key.hide_icons",
+    "key": "key.keyboard.h"
   },
   {
     "comment": "key.hoofprint.open",
@@ -130,13 +430,38 @@
     "key": "key.keyboard.x"
   },
   {
+    "comment": "key.meowdemic.open_gacha",
+    "translation": "key.meowdemic.open_gacha",
+    "key": "key.keyboard.j"
+  },
+  {
     "comment": "key.modmenu.open_menu",
-    "translation": "Open Mod Menu",
+    "translation": "key.modmenu.open_menu",
     "key": "key.keyboard.unknown"
   },
   {
+    "comment": "key.monimi.down",
+    "translation": "key.monimi.down",
+    "key": "key.keyboard.f"
+  },
+  {
+    "comment": "key.monimi.left",
+    "translation": "key.monimi.left",
+    "key": "key.keyboard.d"
+  },
+  {
+    "comment": "key.monimi.right",
+    "translation": "key.monimi.right",
+    "key": "key.keyboard.k"
+  },
+  {
+    "comment": "key.monimi.up",
+    "translation": "key.monimi.up",
+    "key": "key.keyboard.j"
+  },
+  {
     "comment": "key.mute_microphone",
-    "translation": "Mute Microphone",
+    "translation": "key.mute_microphone",
     "key": "key.keyboard.unknown"
   },
   {
@@ -150,8 +475,13 @@
     "key": "key.keyboard.tab"
   },
   {
+    "comment": "key.polysit.sit",
+    "translation": "key.polysit.sit",
+    "key": "key.keyboard.g"
+  },
+  {
     "comment": "key.push_to_talk",
-    "translation": "Push to Talk",
+    "translation": "key.push_to_talk",
     "key": "key.keyboard.unknown"
   },
   {
@@ -160,9 +490,49 @@
     "key": "key.keyboard.g"
   },
   {
+    "comment": "key.reliable_gliders.deploy",
+    "translation": "key.reliable_gliders.deploy",
+    "key": "key.keyboard.unknown"
+  },
+  {
     "comment": "key.right",
     "translation": "Strafe Right",
     "key": "key.keyboard.d"
+  },
+  {
+    "comment": "key.rrv.bookmark",
+    "translation": "key.rrv.bookmark",
+    "key": "key.keyboard.a"
+  },
+  {
+    "comment": "key.rrv.cheatmode",
+    "translation": "key.rrv.cheatmode",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "key.rrv.go_back",
+    "translation": "key.rrv.go_back",
+    "key": "key.mouse.4"
+  },
+  {
+    "comment": "key.rrv.go_forward",
+    "translation": "key.rrv.go_forward",
+    "key": "key.mouse.5"
+  },
+  {
+    "comment": "key.rrv.recipe",
+    "translation": "key.rrv.recipe",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.rrv.toggle_overlay",
+    "translation": "key.rrv.toggle_overlay",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.rrv.usage",
+    "translation": "key.rrv.usage",
+    "key": "key.keyboard.u"
   },
   {
     "comment": "key.saveToolbarActivator",
@@ -171,8 +541,8 @@
   },
   {
     "comment": "key.scattered_shards.collection",
-    "translation": "View Shard Collection",
-    "key": "key.keyboard.j"
+    "translation": "key.scattered_shards.collection",
+    "key": "key.keyboard.b"
   },
   {
     "comment": "key.screenshot",
@@ -195,8 +565,13 @@
     "key": "key.keyboard.p"
   },
   {
+    "comment": "key.spectatorHotbar",
+    "translation": "Select On Hotbar",
+    "key": "key.mouse.middle"
+  },
+  {
     "comment": "key.spectatorOutlines",
-    "translation": "Highlight Players (Spectators)",
+    "translation": "Highlight Players",
     "key": "key.keyboard.unknown"
   },
   {
@@ -205,14 +580,39 @@
     "key": "key.keyboard.left.control"
   },
   {
+    "comment": "key.stfu.narrator_hotkey",
+    "translation": "key.stfu.narrator_hotkey",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.stfu.skip_music",
+    "translation": "key.stfu.skip_music",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.stfu.toggle_music",
+    "translation": "key.stfu.toggle_music",
+    "key": "key.keyboard.unknown"
+  },
+  {
     "comment": "key.swapOffhand",
     "translation": "Swap Item With Off Hand",
     "key": "key.keyboard.f"
   },
   {
+    "comment": "key.toggleGui",
+    "translation": "Toggle GUI",
+    "key": "key.keyboard.f1"
+  },
+  {
     "comment": "key.togglePerspective",
     "translation": "Toggle Perspective",
     "key": "key.keyboard.f5"
+  },
+  {
+    "comment": "key.toggleSpectatorShaderEffects",
+    "translation": "Toggle Spectator Shader Effects",
+    "key": "key.keyboard.f4"
   },
   {
     "comment": "key.use",
@@ -221,77 +621,52 @@
   },
   {
     "comment": "key.voice_chat",
-    "translation": "Voice Chat Menu",
+    "translation": "key.voice_chat",
     "key": "key.keyboard.v"
   },
   {
     "comment": "key.voice_chat_adjust_volumes",
-    "translation": "Adjust Volumes",
+    "translation": "key.voice_chat_adjust_volumes",
     "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.voice_chat_group",
-    "translation": "Group Management",
+    "translation": "key.voice_chat_group",
     "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.voice_chat_settings",
-    "translation": "Voice Chat Settings",
+    "translation": "key.voice_chat_settings",
     "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.voice_chat_toggle_recording",
-    "translation": "Toggle Recording",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.waila.config",
-    "translation": "Open Config",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.waila.show_overlay",
-    "translation": "Show Overlay",
-    "key": "key.keyboard.left.alt"
-  },
-  {
-    "comment": "key.waila.show_recipe_input",
-    "translation": "Show Recipe Usage",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.waila.show_recipe_output",
-    "translation": "Show Recipe",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.waila.toggle_liquid",
-    "translation": "Toggle Liquid",
+    "translation": "key.voice_chat_toggle_recording",
     "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.whisper",
-    "translation": "Whisper",
+    "translation": "key.whisper",
     "key": "key.keyboard.unknown"
   },
   {
+    "comment": "key.worldcomment.send_comment_modifier",
+    "translation": "key.worldcomment.send_comment_modifier",
+    "key": "key.keyboard.grave.accent"
+  },
+  {
     "comment": "key.worldeditcui.chunk",
-    "translation": "Toggle Chunk Border",
+    "translation": "key.worldeditcui.chunk",
     "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.worldeditcui.clear",
-    "translation": "Clear WorldEdit selection",
+    "translation": "key.worldeditcui.clear",
     "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.worldeditcui.toggle",
-    "translation": "Toggle CUI visibility",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "options.narrator_hotkey",
-    "translation": "Toggle Narrator (+Ctrl)",
+    "translation": "key.worldeditcui.toggle",
     "key": "key.keyboard.unknown"
   }
 ]

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "modfest:item/music/finish_or_flounder"
+	}
+}

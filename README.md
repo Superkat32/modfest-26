@@ -1,27 +1,27 @@
 <!--suppress HtmlDeprecatedTag, XmlDeprecatedElement -->
-<center><img alt="world preview" src="" /></center>
+<center><img alt="world preview" src="https://cdn.modrinth.com/data/iO4wQvz6/images/119119f39a357630debc4a36a2eab118e8f9ba89.png" /></center>
 
 <center>
-Welcome to (somewhere)!<br/>
-A collaboration between ??? modders, as hosted by <a href="https://modfest.net">ModFest</a>.
+Welcome to Sakura Academy Secondary High!<br/>
+A collaboration between 63 modders, as hosted by <a href="https://modfest.net">ModFest</a>.
 </center>
 
 ---
 
-**ModFest 26** is a mod development jam that ran from ??? through ???.
+**ModFest 26** is a mod development jam that ran from April 10, 2026 through May 1, 2026.
 
 This modpack contains all submissions, as well as a showcase world built by participants to show off their mods!
 
 **Key Features**:
-- Witness the dawn of ??? mods, including ???!
-- Explore a ??? world ???!
-- ????? original music made just for the event!
-- Find and earn ??? collectible "shards", tracking booth visits, exploration, and mastery!
-- ????
+- Witness the dawn of 55 mods, including Street Art, Booyah!, Ren'mi, and Monday Night Minin'!
+- Explore an anime-styled high school where anything can happen!
+- Jam out to 31 original tracks composed just for the event!
+- Find and earn 93 collectible "shards", tracking booth visits, exploration, and mastery!
+- Meet the festival committee!
 
 <center>
-<img width="50%" alt="spawn preview" src=""/><br/>
-<i>What will you find to inspire you?</i>
+<img width="50%" alt="spawn preview" src="https://cdn.modrinth.com/data/iO4wQvz6/images/788b7306139e5a67b2cd0e067e2356e13f07a412.png"/><br/>
+<i>Watch your step around our little helpers!</i>
 </center>
 
 ---

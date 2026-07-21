@@ -7,7 +7,6 @@ renderDistance:12
 realmsNotifications:false
 autoJump:false
 showNowPlayingToast:true
-musicFrequency:"CONSTANT"
 soundCategory_master:0.7
 soundCategory_music:0.7
 soundCategory_record:0.7

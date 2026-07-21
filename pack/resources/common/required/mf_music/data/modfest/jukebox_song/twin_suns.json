@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "modfest.music.twin_suns"
+	},
+	"length_in_seconds": 240.0,
+	"sound_event": {
+		"sound_id": "modfest:music.twin_suns"
+	}
+}

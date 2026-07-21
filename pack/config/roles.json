@@ -22,7 +22,6 @@
 	},
 	"participant": {
 		"level": 5,
-		"includes": ["builder"],
 		"overrides": {
 			"permission_keys": {
 				"modfest.participant": "allow"
@@ -68,7 +67,8 @@
 			},
 			"commands": {
 				"help": "allow",
-				"polymer.*": "deny"
+				"polymer.*": "deny",
+				"syncope-synecdoche": "deny"
 			}
 		}
 	}

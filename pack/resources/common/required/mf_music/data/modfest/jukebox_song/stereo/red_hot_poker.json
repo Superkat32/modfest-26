@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "modfest.music.stereo.red_hot_poker"
+	},
+	"length_in_seconds": 229.0,
+	"sound_event": {
+		"sound_id": "modfest:music.stereo.red_hot_poker"
+	}
+}

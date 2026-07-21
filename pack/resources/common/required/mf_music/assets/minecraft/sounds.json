@@ -12,7 +12,7 @@
 		"replace": true,
 		"sounds": [
 			{
-				"name": "modfest:music/stereo/ice_cold_spades",
+				"name": "modfest:music/stereo/basil",
 				"stream": true
 			}
 		]

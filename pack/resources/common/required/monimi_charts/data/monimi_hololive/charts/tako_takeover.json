@@ -6,7 +6,8 @@
     "cover": "monimi_hololive:textures/cover/tako_takeover.png",
     "length": 217,
     "bpm": 180,
-    "streamUnsafe": true
+    "streamUnsafe": true,
+    "volume": 0.4
   },
   "charter": "Sammy",
   "difficulty": "normal",

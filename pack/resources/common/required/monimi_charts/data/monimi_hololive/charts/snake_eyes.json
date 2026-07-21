@@ -6,7 +6,8 @@
     "cover": "monimi_hololive:textures/cover/snake_eyes.png",
     "length": 184,
     "bpm": 130,
-    "streamUnsafe": true
+    "streamUnsafe": true,
+    "volume": 0.4
   },
   "charter": "Sammy",
   "difficulty": "normal",

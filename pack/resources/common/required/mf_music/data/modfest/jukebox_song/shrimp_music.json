@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "modfest.music.shrimp_music"
+	},
+	"length_in_seconds": 161.0,
+	"sound_event": {
+		"sound_id": "modfest:music.shrimp_music"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "modfest.music.stereo.horizontal_hourglass"
+	},
+	"length_in_seconds": 148.0,
+	"sound_event": {
+		"sound_id": "modfest:music.stereo.horizontal_hourglass"
+	}
+}
