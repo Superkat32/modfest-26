@@ -1,6 +1,6 @@
 {
 	"music.area.sash": {
-		"sounds":  [
+		"sounds": [
 			{
 				"name": "modfest:music/stereo/athletics",
 				"stream": true
