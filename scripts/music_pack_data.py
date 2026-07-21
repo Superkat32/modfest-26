@@ -24,7 +24,8 @@ def main(gen_translations, gen_sounds, gen_item):
 	print(f"Pack jukebox stereo folder: {jukebox_stereo_folder}\n")
 
 	lang_translations_dict = {} # Contain all song translations to write all at once
-	sounds_entries_dict = {} # Contain all sound entries to write all at once
+	sounds_entries_dict = {} # Contain all modfest/sounds.json entries to write all at once
+	mc_sounds_entries_dict = {} # Contain all minecraft/sounds.json to write all at once
 	song_count = 0
 
 	# Loop through each song entry from the master file
@@ -36,6 +37,8 @@ def main(gen_translations, gen_sounds, gen_item):
 			song_id = song_data["id"]
 			song_lore = song_data["lore"]
 			song_length_seconds = song_data["length"]
+			is_menu_music = song_data["is_menu"] if "is_menu" in song_data else False
+			is_credits_music = song_data["is_credits"] if "is_credits" in song_data else False
 
 			# Create or update jukebox data jsons
 			create_song_jukebox_data_file(song_id, song_length_seconds, False)
@@ -44,7 +47,11 @@ def main(gen_translations, gen_sounds, gen_item):
 			# Get language json data to append to the language file
 			if gen_translations: append_song_translations(lang_translations_dict, song_id, song_title, song_lore)
 			# Get sound json data to append to the sounds.json file
-			if gen_sounds: append_song_sounds(sounds_entries_dict, song_id)
+			if gen_sounds:
+				append_song_sounds(sounds_entries_dict, song_id)
+				if is_menu_music: append_replace_song_sounds(mc_sounds_entries_dict, "music.menu", song_id)
+				if is_credits_music:append_replace_song_sounds(mc_sounds_entries_dict, "music.credits", song_id)
+
 			# Create or update item model jsons
 			if gen_item: create_item_and_model(song_id)
 
@@ -53,11 +60,11 @@ def main(gen_translations, gen_sounds, gen_item):
 	print(f"Jukebox {"and Item" if gen_item else ""} data done!\n")
 
 	if gen_sounds:
-		# sounds_path = music_pack_folder / "assets/modfest/sounds.json"
-		sounds_path = music_pack_folder / "assets/modfest/sounds_test.json"
+		sounds_path = music_pack_folder / "assets/modfest/sounds.json"
+		mc_sounds_path = music_pack_folder / "assets/minecraft/sounds.json"
 
 		print("Generating sounds...")
-		# Get initial sounds data if modfest/sounds.json exists
+		# Get initial sounds data from modfest/sounds.json if existing
 		sounds_data =  json.loads(common.read_file(sounds_path)) if sounds_path.exists() else {}
 		for sound in sounds_entries_dict:
 			sound_already_existed = sound in sounds_data
@@ -65,12 +72,20 @@ def main(gen_translations, gen_sounds, gen_item):
 			print(f"{"Rewrote" if sound_already_existed else "Appended"} {sound}")
 		with open(sounds_path, "w", encoding="utf8") as sounds_file:
 			json.dump(sounds_data, sounds_file, indent="\t")
+
+		# Get initial sounds data from minecraft/sounds.json if existing
+		mc_sounds_data = json.loads(common.read_file(mc_sounds_path)) if mc_sounds_path.exists() else {}
+		for mc_sound in mc_sounds_entries_dict:
+			mc_sound_already_existed = mc_sound in mc_sounds_data
+			mc_sounds_data[mc_sound] = mc_sounds_entries_dict[mc_sound]
+			print(f"{"Rewrote" if mc_sound_already_existed else "Appended"} {mc_sound} to minecraft/sounds.json")
+		with open(mc_sounds_path, "w", encoding="utf8") as mc_sounds_file:
+			json.dump(mc_sounds_data, mc_sounds_file, indent="\t")
 		print("Sounds done!\n")
 
 	if gen_translations:
 		lang_folder = music_pack_folder / "assets/modfest/lang/"
-		# en_us_lang_path = lang_folder / "en_us.json"
-		en_us_lang_path = lang_folder / "test_en_us.json"
+		en_us_lang_path = lang_folder / "en_us.json"
 
 		print("Generating translations...")
 		# Get initial lang data if the en_us.json file exists
@@ -143,6 +158,17 @@ def append_song_sounds(sounds_entries_dict, song_id):
 	}
 	sounds_entries_dict[song_sound_key] = song_sound_value
 	sounds_entries_dict[song_stereo_sound_key] = song_stereo_sound_value
+
+def append_replace_song_sounds(minecraft_sounds_entries_dict, key_to_replace, song_id):
+	minecraft_sounds_entries_dict[key_to_replace] = {
+		"replace": True,
+		"sounds": [
+			{
+				"name": f"modfest:music/stereo/{song_id}",
+				"stream": True
+			}
+		]
+	}
 
 def create_item_and_model(song_id):
 	item_folder = get_music_pack_folder() / "assets/modfest/items/music/"

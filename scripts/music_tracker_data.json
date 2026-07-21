@@ -3,7 +3,8 @@
 		"title": "Aethyus - Auburn Decoy",
 		"id": "auburn_decoy",
 		"length": "189",
-		"lore": "Hint #1 - An arrow shot through space and time, Quickstep back and stand in-line"
+		"lore": "Hint #1 - An arrow shot through space and time, Quickstep back and stand in-line",
+		"is_menu": true
 	},
 	{
 		"title": "Nulb - Uplink",
@@ -16,5 +17,150 @@
 		"id": "false_indigo",
 		"length": "167",
 		"lore": "Hint #3 - There's a balloon hiding under a cherry tree next to the south exit of the Science Building, it might have something?"
+	},
+	{
+		"title": "Superkat32 - Pollen Bazooka",
+		"id": "pollen_bazooka",
+		"length": "129",
+		"lore": "Hint #4 - a blue fox, trotting / its home in an alleyway / its art, on display"
+	},
+	{
+		"title": "Jaevy - Trotting Fox",
+		"id": "trotting_fox",
+		"length": "199",
+		"lore": "Hint #5 - On a nature trail / In the second-floor ceiling / Of a shrine, alone"
+	},
+	{
+		"title": "Aethyus - Shrine",
+		"id": "shrine",
+		"length": "62",
+		"lore": "Hint #6 - There's a whole new world on the other side of the... gym bathroom's mirror?"
+	},
+	{
+		"title": "Aethyus - Athletics",
+		"id": "athletics",
+		"length": "132.",
+		"lore": "Hint #7 - Life can still develop in the darkest, most humid places. Sinking into shower pipes, as we say. "
+	},
+	{
+		"title": "Aethyus - Rest...",
+		"id": "rest",
+		"length": "73",
+		"lore": "Hint #8 - Sandy beaches are a shrimp's best friend! a royal song deserves its castle"
+	},
+	{
+		"title": "Nulb - Shrimp Fried Music",
+		"id": "shrimp_music",
+		"length": "161",
+		"lore": "Hint #9 - ???"
+	},
+	{
+		"title": "Superkat32 - Ink Shot",
+		"id": "ink_shot",
+		"length": "181",
+		"lore": "Hint #10 - In the stands of the race track."
+	},
+	{
+		"title": "lynndova - Red Hot Poker",
+		"id": "red_hot_poker",
+		"length": "227.",
+		"lore": "Hint #11 - An unnessasary smoke break is needed behind the trash... HEY?!?! WHY DID THAT PURPLE GUY THROW THAT DISC UP THERE?!?!"
+	},
+	{
+		"title": "Nulb - Anti-Smoking Smoking Club",
+		"id": "smoking_club",
+		"length": "214",
+		"lore": "Hint #12 - A sweet girl needs to bring everything she needs to school! A book, A pen and a disc... Maybe she's ready to put it behind her too"
+	},
+	{
+		"title": "lynndova - Lily of the Valley",
+		"id": "lily_of_the_valley",
+		"length": "300",
+		"lore": "Hint #13 - Infinite Finality is in the finite reality. Close your eyes and drift away.. let the play playout"
+	},
+	{
+		"title": "soileH - as is and as was before",
+		"id": "as_is_and_as_was_before",
+		"length": "135",
+		"lore": "Hint #14 - Myths are always the same. Legends are always similar. Turn over the rock with the flower to find what's hiding beneath it. "
+	},
+	{
+		"title": "Aethyus - Tales of Yore",
+		"id": "tales_of_yore",
+		"length": "174",
+		"lore": "Hint #15 - Climb to the top of the world. On the terraces of sunset and sunrise, you'll find the key."
+	},
+	{
+		"title": "Aethyus - Heliograce",
+		"id": "heliograce",
+		"length": "421",
+		"lore": "Hint #16 - In the stands of the baseball field."
+	},
+	{
+		"title": "lynndova - Ice Cold Spades",
+		"id": "ice_cold_spades",
+		"length": "260",
+		"lore": "Hint #17 - Thinking that open spaces can't hide anything from you is wrong. Even looking back at the surroundings of the door you first came from can feel odd."
+	},
+	{
+		"title": "Aethyus  - Twin Suns",
+		"id": "twin_suns",
+		"length": "240.",
+		"lore": "Hint #18 - School rumors say there's a pefect bench sitting atop a hill, some say if you catch the sunrise it's a sign of good luck"
+	},
+	{
+		"title": "Nulb - I Wannanana",
+		"id": "i_wannanana",
+		"length": "94",
+		"lore": "Hint #19 - At home. Check my house and have a cup of matcha with some music!"
+	},
+	{
+		"title": "Aethyus - Momentum",
+		"id": "momentum",
+		"length": "72",
+		"lore": "Hint #20 - Wondered why there are holes in donuts? To put discs in the trees inside them, of course."
+	},
+	{
+		"title": "Aethyus - Wisps",
+		"id": "wisps",
+		"length": "237",
+		"lore": "Hint #21 - A ghost stands guard in nothingness, find the disc in the inbetween"
+	},
+	{
+		"title": "soileH - Horizontal Hourglass",
+		"id": "horizontal_hourglass",
+		"length": "148",
+		"lore": "Hint #22 - Disgusting purple man spotted in artist booth! Is he even a student here?"
+	},
+	{
+		"title": "Nulb - V(ery) I(mportant) P(urple)",
+		"id": "vip",
+		"length": "64",
+		"lore": "Hint #23 - There's a balloon at the pond dock beside the nature trail enterance, it's quite the hike!"
+	},
+	{
+		"title": "Superkat32 - Pasuka",
+		"id": "pasuka",
+		"length": "124",
+		"lore": "Hint #24 - A balloon tucked away in the corner just left of the Squid Research Lab lab exit stole this somehow!"
+	},
+	{
+		"title": "Superkat32 - Finish or Flounder",
+		"id": "finish_or_flounder",
+		"length": "65",
+		"lore": "Hint #25 - These ladders sure are nice! I just keep climbing! ough... something fell out of my pocket, and now it's lost among the books"
+	},
+	{
+		"title": "Nulb - reset",
+		"id": "reset",
+		"length": "82",
+		"lore": "Hint #26 - Overwatching the mountainsides at a pincic, along the nature trail, west of the beach"
+	},
+	{
+		"title": "lynndova - Basil",
+		"id": "basil",
+		"length": "249.",
+		"lore": "Hint #27 - ???",
+		"is_credits": true
 	}
 ]
