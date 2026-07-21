@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Aethyus - Auburn Decoy",
+		"id": "auburn_decoy",
+		"length": "189",
+		"lore": "Hint #1 - An arrow shot through space and time, Quickstep back and stand in-line"
+	},
+	{
+		"title": "Nulb - Uplink",
+		"id": "uplink",
+		"length": "141",
+		"lore": "Hint #2 - By a seesaw west of the Science Building..."
+	},
+	{
+		"title": "lynndova - False Indigo",
+		"id": "false_indigo",
+		"length": "167",
+		"lore": "Hint #3 - There's a balloon hiding under a cherry tree next to the south exit of the Science Building, it might have something?"
+	}
+]
